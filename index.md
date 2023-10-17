@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - Welcome To Jimin's Gitblog Site.
+# Welcome To Jimin's Gitblog Site.
 
 Hello! I'm Unreal Engine Programmer.
