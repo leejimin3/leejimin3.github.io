@@ -4,160 +4,82 @@ const programmingLanguages: ISkill.Skill = {
   category: 'Programming Languages',
   items: [
     {
-      title: 'C',
-      level: 3,
+      title: 'C++',
     },
     {
-      title: 'Shell Scripting',
-      level: 3,
+      title: 'C#',
     },
     {
       title: 'Python',
-      level: 3,
     },
     {
-      title: 'Perl',
-      level: 2,
+      title: 'C',
     },
     {
-      title: 'Golang',
-      level: 2,
+      title: 'Java',
     },
     {
-      title: 'Rust',
-      level: 1,
+      title: 'Lua',
     },
   ],
 };
 
-const kernelDevelopment: ISkill.Skill = {
-  category: 'Kernel Development',
+const GameEngine: ISkill.Skill = {
+  category: 'Engine',
   items: [
     {
-      title: 'Kernel Programming',
-      level: 3,
+      title: 'Unreal Engine[4,5]',
     },
     {
-      title: 'GNU Debugger',
-      level: 3,
-    },
-    {
-      title: 'Memory Management',
-      level: 2,
-    },
-    {
-      title: 'System Call Interface',
-      level: 2,
+      title: 'Unity',
     },
   ],
 };
 
-const virtualization: ISkill.Skill = {
-  category: 'Virtualization',
+const ToolsandIDEs: ISkill.Skill = {
+  category: 'Tools & IDEs',
   items: [
     {
-      title: 'Docker',
-      level: 3,
+      title: 'Git / Github',
     },
     {
-      title: 'KVM',
-      level: 3,
+      title: 'Visual Studio / VS Code',
     },
     {
-      title: 'Xen',
-      level: 2,
+      title: 'Notion',
     },
     {
-      title: 'VirtualBox',
-      level: 2,
+      title: 'Jira',
     },
     {
-      title: 'VMware ESXi',
-      level: 1,
+      title: 'Confluence',
+      },
+    {
+        title: 'SVN'
     },
   ],
 };
 
-const automation: ISkill.Skill = {
-  category: 'Automation',
-  items: [
-    {
-      title: 'Ansible',
-      level: 3,
-    },
-    {
-      title: 'Puppet',
-      level: 3,
-    },
-    {
-      title: 'Chef',
-      level: 2,
-    },
-    {
-      title: 'Jenkins',
-      level: 2,
-    },
-    {
-      title: 'CI/CD Pipelines',
-      level: 1,
-    },
-    {
-      title: 'Infrastructure as Code',
-      level: 1,
-    },
-  ],
-};
-
-const networkSecurity: ISkill.Skill = {
-  category: 'Network Security',
-  items: [
-    {
-      title: 'iptables',
-      level: 3,
-    },
-    {
-      title: 'OpenSSH',
-      level: 3,
-    },
-    {
-      title: 'OpenSSL',
-      level: 2,
-    },
-    {
-      title: 'NACLs',
-      level: 2,
-    },
-    {
-      title: 'VPN Technologies',
-      level: 2,
-    },
-    {
-      title: 'Intrusion Detection',
-      level: 1,
-    },
-  ],
-};
-
-const misc: ISkill.Skill = {
+const Misc: ISkill.Skill = {
   category: 'Misc',
   items: [
     {
-      title: 'Coffee Brewing',
+      title: 'Oculus',
     },
     {
-      title: "Rubik's Cube Solving",
+      title: 'Agile / Scrum',
     },
     {
-      title: 'Table Tennis',
+      title: 'Game Experience',
     },
     {
-      title: 'Guitar Playing',
+      title: 'Communication',
     },
     {
-      title: 'Joke Telling',
+      title: 'Code review',      
     },
     {
-      title: 'Duct Tape Crafting',
+      title: 'Share insights',
     },
   ],
 };
@@ -166,13 +88,11 @@ const skill: ISkill.Payload = {
   disable: false,
   skills: [
     programmingLanguages,
-    kernelDevelopment,
-    virtualization,
-    automation,
-    networkSecurity,
-    misc,
+    GameEngine,
+    ToolsandIDEs,
+    Misc,
   ],
-  tooltip: '1: 기초 수준\n2: 취미 개발 수준\n3: Production 개발 가능 수준',
+  tooltip: '자신 있는 스킬부터 나열하였습니다.',
 };
 
 export default skill;
