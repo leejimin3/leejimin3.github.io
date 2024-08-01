@@ -53,9 +53,9 @@ const ToolsandIDEs: ISkill.Skill = {
     },
     {
       title: 'Confluence',
-      },
+    },
     {
-        title: 'SVN'
+      title: 'SVN',
     },
   ],
 };
@@ -76,7 +76,7 @@ const Misc: ISkill.Skill = {
       title: 'Communication',
     },
     {
-      title: 'Code review',      
+      title: 'Code review',
     },
     {
       title: 'Share insights',
@@ -86,12 +86,7 @@ const Misc: ISkill.Skill = {
 
 const skill: ISkill.Payload = {
   disable: false,
-  skills: [
-    programmingLanguages,
-    GameEngine,
-    ToolsandIDEs,
-    Misc,
-  ],
+  skills: [programmingLanguages, GameEngine, ToolsandIDEs, Misc],
   tooltip: '자신 있는 스킬부터 나열하였습니다.',
 };
 
