@@ -1,7 +1,7 @@
 import { IOpenSource } from '../component/openSource/IOpenSource';
 
-const openSource: IOpenSource.Payload = {
-  disable: false,
+const openSources: IOpenSource.Payload = {
+  disable: true,
   list: [
     {
       title: 'Linux Kernal',
@@ -71,4 +71,4 @@ const openSource: IOpenSource.Payload = {
   ],
 };
 
-export default openSource;
+export default openSources;

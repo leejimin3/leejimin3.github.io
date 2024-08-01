@@ -4,7 +4,7 @@ const project: IProject.Payload = {
   disable: false,
   list: [
     {
-      title: '쿼터뷰 PVP 액션 게임 개발 [Unreal Engine]',
+      title: '쿼터뷰 PVP 액션 게임 개발 [Unreal Engine5]',
       startedAt: '2024-03',
       endedAt: '2014-06',
       where: 'UNSEEN[Smilegate x EpicGamesKorea]',
@@ -27,7 +27,7 @@ const project: IProject.Payload = {
       ],
     },
     {
-      title: '버추얼 스튜디오 플랫폼 연동 솔루션 개발 [Unreal Engine]',
+      title: '버추얼 스튜디오 플랫폼 연동 솔루션 개발 [Unreal Engine5]',
       startedAt: '2023-04',
       endedAt: '2024-01',
       where: '백스포트(Vaxport)',
@@ -54,7 +54,7 @@ const project: IProject.Payload = {
       ],
     },
     {
-      title: '체험형 전시 체험 공간 실감 컨텐츠 제작 [Unreal Engine]',
+      title: '체험형 전시 체험 공간 실감 컨텐츠 제작 [Unreal Engine5]',
       startedAt: '2023-05',
       endedAt: '2023-12',
       where: '백스포트(Vaxport)',
@@ -115,6 +115,52 @@ const project: IProject.Payload = {
           content: '컬렉션을 사용한 컴포넌트 형식의 ObjectPool 개발',
         },
       ],
+    },
+    {
+        title: '슈퍼센트 게임 개발 아카데미 프로젝트 [Unity]',
+        startedAt: '2023-01',
+        endedAt: '2023-02',
+        where: '슈퍼센트(Supercent)',
+        descriptions: [
+            {
+                content: '유니티 및 C# 수업을 통해 CS 지식 학습',
+            },
+            {
+                content: '5가지의 하이퍼 캐주얼 게임 프로젝트 기획 및 구현',
+            },
+        ],
+    },
+    {
+        title: '3D 퍼즐 어드벤처 게임 제작 [Unreal Engine4]',
+        startedAt: '2022-03',
+        endedAt: '2022-06',
+        where: '스마일게이트(Smilegate)',
+        descriptions: [
+            {
+                content: 'BT를 사용한 AI 구현',
+            },
+            {
+                content: 'Destructable Mesh를 사용한 오브젝트 구현. 데미지를 받을 시 붕괴',
+            },
+            {
+                content: '소켓 및 WeaponObject를 사용한 무기 스왑 시스템 구현',
+            },
+        ],
+    },
+
+    {
+        title: '빈동 배열 총기 시스템 [Unreal Engine5]',
+        startedAt: '2022-02',
+        endedAt: '2022-05',
+        where: '졸업 작품 프로젝트(AYU)',
+        descriptions: [
+            {
+                content: '기존 두 가지의 FPS 총기 반동 방식의 장점을 융합하여 반동 배열 중 랜덤한 반동이 발동하는 기능 구현',
+            },
+            {
+                content: 'Curve Blueprint를 사용한 반동으로 기획자가 데이터를 통해 쉽게 반동을 만들 수 있는 환경 구성',
+            },
+        ],
     },
   ],
 };
