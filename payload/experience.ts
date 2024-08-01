@@ -35,7 +35,7 @@ const experience: IExperience.Payload = {
         '외부 플러그인 연구 및 기능 확장',
         '시네마틱 영상 제작을 위한 컨텐츠 프로그래밍',
       ],
-        skillKeywords: ['C++', 'Unreal Engine', 'SVN', 'Camera360v2',],
+      skillKeywords: ['C++', 'Unreal Engine', 'SVN', 'Camera360v2'],
     },
   ],
 };
