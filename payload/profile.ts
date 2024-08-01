@@ -1,9 +1,9 @@
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
-import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faReadme } from '@fortawesome/free-brands-svg-icons';
 
 import { faBell } from '@fortawesome/free-regular-svg-icons';
 import { IProfile } from '../component/profile/IProfile';
-import image from '../asset/sample_tux.png';
+import image from '../asset/ProfileImage.jpg';
 
 const profile: IProfile.Payload = {
   disable: false,
@@ -11,8 +11,8 @@ const profile: IProfile.Payload = {
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'profile image',
-    small: '(image)',
+    title: '이지민',
+    small: '[Jimin Lee]',
   },
   contact: [
     {
@@ -28,6 +28,10 @@ const profile: IProfile.Payload = {
     {
       link: 'https://github.com/leejimin3',
       icon: faGithub,
+    },
+    {
+      link: 'https://quill-quicksand-8ed.notion.site/29f99e8819c840938b6e1ef7cd83f5b3',
+      icon: faReadme,
     },
   ],
   notice: {
