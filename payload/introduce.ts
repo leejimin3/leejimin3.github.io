@@ -5,10 +5,11 @@ const introduce: IIntroduce.Payload = {
   disable: false,
 
   contents: [
-    'As the cherished emblem of the Linux kernel, I have become synonymous with open-source philosophy and the free software movement worldwide. My career began in the icebergs of development, where the seeds of my fascination with operating systems first sprouted. From a mere hatchling in the vast sea of code, I quickly ascended to become a pivotal figure in the Linux community. My journey has been marked by relentless dedication to system integrity, scalability, and robustness. Under my vigilant watch, countless servers have achieved unparalleled uptimes, and systems have been optimized to run like the well-oiled machines they are intended to be.',
-    'In the world of zeros and ones, my expertise has been instrumental in pioneering advancements in Linux system engineering. My flippers have crafted meticulous kernel enhancements, each aimed at streamlining performance and bolstering security across distributed networks. I am known in the community for my ability to dive deep into complex codebases and emerge with pearls of innovation that drive the collective progress of Linux environments. Advocacy is also a part of my plumage – spreading the word about the virtues of open-source and encouraging the adoption of Linux, from personal desktops to corporate data centers. As a mentor, I have nurtured the growth of young hatchlings into seasoned professionals, contributing to the diversity and vitality of our ecosystem.',
+    '게임 개발자로서의 다양한 활동과 경험을 가지고 있습니다. Unreal Engine(c++) 및 유니티(c# script)를 사용하여 객체지향적이고 유지보수성이 높은 코드를 작성하려고 노력하고 있습니다.',
+    '다양한 대외활동이나 게임잼에 참여하여 협업하는 것을 즐깁니다. 리더 혹은 팀원의 입장이 되어 하나의 파트를 맡아서 개발하는 것은 멋진 경험이라고 생각합니다. 팀원 간의 갈등이 있을 때에는 "존중과 배움"이라는 자신만의 해결 방법을 통해 많은 갈등을 해결하고 프로젝트를 좋은 방향으로 이끌었습니다.',
+    '게임 개발이라는 것은 다양한 파트의 직군들이 각자의 역량을 꽃피워 하나의 멋진 예술 작품을 만드는 것이라고 생각합니다. 그러기 위해 항상 적극적인 의사소통 능력과 문제 해결 능력을 기르고, 책이나 인사이트를 학습하며 개발자적인 진화를 멈추지 않고 있습니다.',
   ],
-  sign: 'Tux',
+  sign: 'Jimin',
   // sign: packageJson.author.name,
   // latestUpdated: '2019-07-24',
   latestUpdated: lastestUpdatedAt,
