@@ -31,7 +31,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title: '�̸��Ϸ� ���� �� ���� Ȯ�� �����մϴ�.',
+    title: '이메일로 contact시 빠른 답장 가능합니다.',
     icon: faBell,
   },
 };
