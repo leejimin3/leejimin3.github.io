@@ -2,114 +2,119 @@ import { IProject } from '../component/project/IProject';
 
 const project: IProject.Payload = {
   disable: false,
-    list: [
+  list: [
     {
-        title: 'ÄõÅÍºä PVP ¾×¼Ç °ÔÀÓ °³¹ß [Unreal Engine]',
-        startedAt: '2024-03',
-        endedAt: '2014-06',
-        where: 'UNSEEN[Smilegate x EpicGamesKorea]',
-        descriptions: [
-            {
-                content:
-                    'Unreal Engine5 ¹× C++¸¦ »ç¿ëÇÑ °ÔÀÓ °³¹ß. ÆÐÅ°Â¡ ¿Ï·á ÈÄ ½Ã¿¬ ÁøÇà',
-            },
-            {
-                content:
-                    'GAS½Ã½ºÅÛÀ» »ç¿ëÇÏ¿© Àü¹ÝÀûÀÎ °ÔÀÓ ·ÎÁ÷ ±¸¼º',
-            },
-            {
-                content:
-                    '¾ð¸®¾ó ³×Æ®¿öÅ© ¹× EOS¸¦ »ç¿ëÇÑ ¸®½¼ ¼­¹ö È¯°æ ±¸¼º',
-            },
-            {
-                content:
-                    '¸ÖÆ¼ÇÃ·¹ÀÌ ÀÎº¥Åä¸® ÄÄÆ÷³ÍÆ® ¹× UI ±¸¼º',
-            },
-            {
-                content:
-                    'GitFlow¸¦ »ç¿ëÇÏ¿© ±â´É º°·Î ºê·£Ä¡ ºÐ¸®. ±¸Á¶ÀûÀÎ Çü»ó °ü¸® È¯°æ Çü¼º',
-            },
-        ],
+      title: 'ì¿¼í„°ë·° PVP ì•¡ì…˜ ê²Œìž„ ê°œë°œ [Unreal Engine]',
+      startedAt: '2024-03',
+      endedAt: '2014-06',
+      where: 'UNSEEN[Smilegate x EpicGamesKorea]',
+      descriptions: [
+        {
+          content: 'Unreal Engine5 ë° C++ë¥¼ ì‚¬ìš©í•œ ê²Œìž„ ê°œë°œ. íŒ¨í‚¤ì§• ì™„ë£Œ í›„ ì‹œì—° ì§„í–‰',
+        },
+        {
+          content: 'GASì‹œìŠ¤í…œì„ ì‚¬ìš©í•˜ì—¬ ì „ë°˜ì ì¸ ê²Œìž„ ë¡œì§ êµ¬ì„±',
+        },
+        {
+          content: 'ì–¸ë¦¬ì–¼ ë„¤íŠ¸ì›Œí¬ ë° EOSë¥¼ ì‚¬ìš©í•œ ë¦¬ìŠ¨ ì„œë²„ í™˜ê²½ êµ¬ì„±',
+        },
+        {
+          content: 'ë©€í‹°í”Œë ˆì´ ì¸ë²¤í† ë¦¬ ì»´í¬ë„ŒíŠ¸ ë° UI êµ¬ì„±',
+        },
+        {
+          content: 'GitFlowë¥¼ ì‚¬ìš©í•˜ì—¬ ê¸°ëŠ¥ ë³„ë¡œ ë¸Œëžœì¹˜ ë¶„ë¦¬. êµ¬ì¡°ì ì¸ í˜•ìƒ ê´€ë¦¬ í™˜ê²½ í˜•ì„±',
+        },
+      ],
     },
     {
-        title: '¹öÃß¾ó ½ºÆ©µð¿À ÇÃ·§Æû ¿¬µ¿ ¼Ö·ç¼Ç °³¹ß [Unreal Engine]',
-        startedAt: '2023-04',
-        endedAt: '2024-01',
-        where: '¹é½ºÆ÷Æ®(Vaxport)',
-        descriptions: [
-            {
-                content:
-                    '°³¹ß Ã¶¼ö À§±â¿´´ø ÇÁ·ÎÁ§Æ®¿¡ ±ä±Þ ÅõÀÔ. ¿¬±¸ °¨»ç Åë°ú ¹× ÇÁ·ÎÁ§Æ® ¿Ï·áÇÏ¿© ¾à n¾ï¿øÀÇ ¿¬±¸ºñ È¹µæ',
-            },
-            {
-                content:
-                    '¾ð¸®¾ó ³»ºÎ ÇÃ·¯±×ÀÎ ¹× ¼­µå ÆÄÆ¼ ÇÃ·¯±×ÀÎÀÇ ÄÚµå¸¦ ºÐ¼® ¹× È®Àå ´ã´ç',
-                weight: 'MEDIUM',
-                descriptions: [
-                    { content: '"MultiEdit" ÇÃ·¯±×ÀÎ - ºÐ¼® ¹× È®ÀåÀ» ÅëÇØ ÀÏºÎÀÇ ÀÚµ¿È­ ±¸Çö' },
-                    { content: '"DMX" ÇÃ·¯±×ÀÎ - DMX ÄÁ¹öÅÍ¸¦ ÀÌ¿ëÇÏ¿© ·¹º§ ³»ÀÇ Á¶¸í°ú ½ÇÁ¦ Á¶¸í µ¿±âÈ­' },
-                    { content: '"Stable Diffusion" ÇÃ·¯±×ÀÎ - ¼­µå ÆÄÆ¼ ÇÃ·¯±×ÀÎ ºÐ¼® ¹× È®Àå. AI·Î »ý¼º ¹× ÀÇÁ¸µÈ ÀÎ½ºÅÏ½ºÀÇ Material·Î ÀÚµ¿ Àû¿ë' },
-                ],
-            },
-            {
-                content:
-                    '¿µ¾î±Ç ¿Ü±¹ ½Ã´Ï¾î °³¹ßÀÚ¿Í Çù¾÷ ÁøÇà',
-            },
-        ],
-    },
-    {
-      title: 'Ã¼ÇèÇü Àü½Ã Ã¼Çè °ø°£ ½Ç°¨ ÄÁÅÙÃ÷ Á¦ÀÛ [Unreal Engine]',
-      startedAt: '2023-05',
-      endedAt: '2023-12',
-      where: '¹é½ºÆ÷Æ®(Vaxport)',
+      title: 'ë²„ì¶”ì–¼ ìŠ¤íŠœë””ì˜¤ í”Œëž«í¼ ì—°ë™ ì†”ë£¨ì…˜ ê°œë°œ [Unreal Engine]',
+      startedAt: '2023-04',
+      endedAt: '2024-01',
+      where: 'ë°±ìŠ¤í¬íŠ¸(Vaxport)',
       descriptions: [
         {
           content:
-            '¼ÓÃÊÀÇ ½Ç°¨ÄÁÅÙÃ÷ Àü½Ã°ü "¹ÂÁö¾ö¿¢½º"¿¡ ÇÁ·¯Á§Æ® Àü½Ã ¹× À¯Áöº¸¼ö',
-          },
+            'ê°œë°œ ì² ìˆ˜ ìœ„ê¸°ì˜€ë˜ í”„ë¡œì íŠ¸ì— ê¸´ê¸‰ íˆ¬ìž…. ì—°êµ¬ ê°ì‚¬ í†µê³¼ ë° í”„ë¡œì íŠ¸ ì™„ë£Œí•˜ì—¬ ì•½ nì–µì›ì˜ ì—°êµ¬ë¹„ íšë“',
+        },
         {
-          content:
-            'À¥¾Û °³¹ßÀÚ ¹× ¼­¹ö °³¹ßÀÚ¿Í Çù¾÷ÇÏ¿© ¸ð¹ÙÀÏ¿¡¼­ ¿ÀºêÁ§Æ®¸¦ »ý¼ºÇÏ°í Á¶ÀÛÇÏ´Â È¯°æ ±¸¼º',
-            weight: 'MEDIUM',
-            descriptions: [
-                { content: '¼­¹ö¿ÍÀÇ ¼ÒÄÏÅë½Å È¯°æ ±¸¼º. ÇÁ·ÎÅäÄÝÀ» ÅëÇØ ¸ð¹ÙÀÏ¿¡¼­ ¿ÀºêÁ§Æ® Á¶ÀÛ ¹× ±â´É ÀÛµ¿' },
-                { content: 'RestAPI¸¦ »ç¿ëÇÑ HTTPÅë½ÅÀ» ÅëÇØ »ç¿ëÀÚ°¡ ±×¸° ÀÌ¹ÌÁö µ¥ÀÌÅÍ¸¦ ¼ö½Å. ¿ÀºêÁ§Æ®ÀÇ DynamicMaterialIntance¿¡ Àû¿ë' },
-            ],
+          content: 'ì–¸ë¦¬ì–¼ ë‚´ë¶€ í”ŒëŸ¬ê·¸ì¸ ë° ì„œë“œ íŒŒí‹° í”ŒëŸ¬ê·¸ì¸ì˜ ì½”ë“œë¥¼ ë¶„ì„ ë° í™•ìž¥ ë‹´ë‹¹',
+          weight: 'MEDIUM',
+          descriptions: [
+            { content: '"MultiEdit" í”ŒëŸ¬ê·¸ì¸ - ë¶„ì„ ë° í™•ìž¥ì„ í†µí•´ ì¼ë¶€ì˜ ìžë™í™” êµ¬í˜„' },
+            { content: '"DMX" í”ŒëŸ¬ê·¸ì¸ - DMX ì»¨ë²„í„°ë¥¼ ì´ìš©í•˜ì—¬ ë ˆë²¨ ë‚´ì˜ ì¡°ëª…ê³¼ ì‹¤ì œ ì¡°ëª… ë™ê¸°í™”' },
+            {
+              content:
+                '"Stable Diffusion" í”ŒëŸ¬ê·¸ì¸ - ì„œë“œ íŒŒí‹° í”ŒëŸ¬ê·¸ì¸ ë¶„ì„ ë° í™•ìž¥. AIë¡œ ìƒì„± ë° ì˜ì¡´ëœ ì¸ìŠ¤í„´ìŠ¤ì˜ Materialë¡œ ìžë™ ì ìš©',
+            },
+          ],
+        },
+        {
+          content: 'ì˜ì–´ê¶Œ ì™¸êµ­ ì‹œë‹ˆì–´ ê°œë°œìžì™€ í˜‘ì—… ì§„í–‰',
+        },
+      ],
+    },
+    {
+      title: 'ì²´í—˜í˜• ì „ì‹œ ì²´í—˜ ê³µê°„ ì‹¤ê° ì»¨í…ì¸  ì œìž‘ [Unreal Engine]',
+      startedAt: '2023-05',
+      endedAt: '2023-12',
+      where: 'ë°±ìŠ¤í¬íŠ¸(Vaxport)',
+      descriptions: [
+        {
+          content: 'ì†ì´ˆì˜ ì‹¤ê°ì»¨í…ì¸  ì „ì‹œê´€ "ë®¤ì§€ì—„ì—‘ìŠ¤"ì— í”„ëŸ¬ì íŠ¸ ì „ì‹œ ë° ìœ ì§€ë³´ìˆ˜',
         },
         {
           content:
-            '¾ð¸®¾ó ÇÃ·¯±×ÀÎÀ» ºÐ¼® ¹× ÇÁ·ÎÁ§Æ®¿¡ Àû¿ëÇÏ¿© ´ëÇü Å¸¿øÇü ½ºÅ©¸°¿¡ È­¸éÀ» Á¤»óÀûÀ¸·Î Ãâ·Â',
+            'ì›¹ì•± ê°œë°œìž ë° ì„œë²„ ê°œë°œìžì™€ í˜‘ì—…í•˜ì—¬ ëª¨ë°”ì¼ì—ì„œ ì˜¤ë¸Œì íŠ¸ë¥¼ ìƒì„±í•˜ê³  ì¡°ìž‘í•˜ëŠ” í™˜ê²½ êµ¬ì„±',
           weight: 'MEDIUM',
           descriptions: [
-            { content: '"SwitchBoard" ÇÃ·¯±×ÀÎ - ¿©·¯´ëÀÇ PC¸¦ ³ëµå·Î ¿¬°á. ´Ù·®ÀÇ PCÀÇ È­¸éÀÌ º´ÇÕµÈ È¯°æ ±¸¼º'},
-            { content: '"nDisplay" ÇÃ·¯±×ÀÎ - ¿ÀºêÁ§Æ® ¿òÁ÷ÀÓ µ¿±âÈ­. ±¼°îÁø ½ºÅ©¸°¿¡ È­¸é Á¤»ó Ãâ·Â' },
+            {
+              content:
+                'ì„œë²„ì™€ì˜ ì†Œì¼“í†µì‹  í™˜ê²½ êµ¬ì„±. í”„ë¡œí† ì½œì„ í†µí•´ ëª¨ë°”ì¼ì—ì„œ ì˜¤ë¸Œì íŠ¸ ì¡°ìž‘ ë° ê¸°ëŠ¥ ìž‘ë™',
+            },
+            {
+              content:
+                'RestAPIë¥¼ ì‚¬ìš©í•œ HTTPí†µì‹ ì„ í†µí•´ ì‚¬ìš©ìžê°€ ê·¸ë¦° ì´ë¯¸ì§€ ë°ì´í„°ë¥¼ ìˆ˜ì‹ . ì˜¤ë¸Œì íŠ¸ì˜ DynamicMaterialIntanceì— ì ìš©',
+            },
+          ],
+        },
+        {
+          content:
+            'ì–¸ë¦¬ì–¼ í”ŒëŸ¬ê·¸ì¸ì„ ë¶„ì„ ë° í”„ë¡œì íŠ¸ì— ì ìš©í•˜ì—¬ ëŒ€í˜• íƒ€ì›í˜• ìŠ¤í¬ë¦°ì— í™”ë©´ì„ ì •ìƒì ìœ¼ë¡œ ì¶œë ¥',
+          weight: 'MEDIUM',
+          descriptions: [
+            {
+              content:
+                '"SwitchBoard" í”ŒëŸ¬ê·¸ì¸ - ì—¬ëŸ¬ëŒ€ì˜ PCë¥¼ ë…¸ë“œë¡œ ì—°ê²°. ë‹¤ëŸ‰ì˜ PCì˜ í™”ë©´ì´ ë³‘í•©ëœ í™˜ê²½ êµ¬ì„±',
+            },
+            {
+              content:
+                '"nDisplay" í”ŒëŸ¬ê·¸ì¸ - ì˜¤ë¸Œì íŠ¸ ì›€ì§ìž„ ë™ê¸°í™”. êµ´ê³¡ì§„ ìŠ¤í¬ë¦°ì— í™”ë©´ ì •ìƒ ì¶œë ¥',
+            },
           ],
         },
       ],
     },
     {
-        title: '°ÔÀÓÀë Âü¿© ¹× ºÒ¸´ Çìºì °ÔÀÓ Á¦ÀÛ [Unity]',
-        startedAt: '2023-12',
-        endedAt: '2023-12',
-        where: '"µÚ³¡"°ÔÀÓÀë(BackEnd)',
-        descriptions: [
-            {
-                content:
-                    '°ÔÀÓÀÇ µ¥ÀÌÅÍ¸¦ °ü¸®ÇÏ´Â ¸Å´ÏÀú È¯°æ ±¸¼º ´ã´ç',
-            },
-            {
-                content:
-                    '±âÈ¹ÀÚ¿Í Çù¾÷ÇÏ±â ÆíÇÑ È¯°æ ±¸¼º',
-                weight: 'MEDIUM',
-                descriptions: [
-                    { content: 'CSV¸¦ ÅëÇØ ºÒ·¯¿Â µ¥ÀÌÅÍ¸¦ »ç¿ëÇÑ ScriptableObject Á¦ÀÛ' },
-                    { content: 'ºÒ·¯¿Â µ¥ÀÌÅÍ¸¦ Linq¸¦ »ç¿ëÇÑ µ¥ÀÌÅÍ ÇÊÅÍ¸µ' },
-                ],
-            },
-            {
-                content: 'ÄÃ·º¼ÇÀ» »ç¿ëÇÑ ÄÄÆ÷³ÍÆ® Çü½ÄÀÇ ObjectPool °³¹ß',
-            },
-        ],
+      title: 'ê²Œìž„ìž¼ ì°¸ì—¬ ë° ë¶ˆë¦¿ í—¤ë¸ ê²Œìž„ ì œìž‘ [Unity]',
+      startedAt: '2023-12',
+      endedAt: '2023-12',
+      where: '"ë’¤ë"ê²Œìž„ìž¼(BackEnd)',
+      descriptions: [
+        {
+          content: 'ê²Œìž„ì˜ ë°ì´í„°ë¥¼ ê´€ë¦¬í•˜ëŠ” ë§¤ë‹ˆì € í™˜ê²½ êµ¬ì„± ë‹´ë‹¹',
+        },
+        {
+          content: 'ê¸°íšìžì™€ í˜‘ì—…í•˜ê¸° íŽ¸í•œ í™˜ê²½ êµ¬ì„±',
+          weight: 'MEDIUM',
+          descriptions: [
+            { content: 'CSVë¥¼ í†µí•´ ë¶ˆëŸ¬ì˜¨ ë°ì´í„°ë¥¼ ì‚¬ìš©í•œ ScriptableObject ì œìž‘' },
+            { content: 'ë¶ˆëŸ¬ì˜¨ ë°ì´í„°ë¥¼ Linqë¥¼ ì‚¬ìš©í•œ ë°ì´í„° í•„í„°ë§' },
+          ],
+        },
+        {
+          content: 'ì»¬ë ‰ì…˜ì„ ì‚¬ìš©í•œ ì»´í¬ë„ŒíŠ¸ í˜•ì‹ì˜ ObjectPool ê°œë°œ',
+        },
+      ],
     },
   ],
 };
