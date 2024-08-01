@@ -5,7 +5,7 @@ const experience: IExperience.Payload = {
   disableTotalPeriod: false,
   list: [
     {
-      title: '백스포트[(전)플랜아이]',
+      title: '백스포트 [(전)플랜아이]',
       position: '언리얼엔진 프로그래머',
       startedAt: '2023-04',
       endedAt: '2024-01',
@@ -18,12 +18,12 @@ const experience: IExperience.Payload = {
       skillKeywords: [
         'C++',
         'Unreal Engine',
+        'Github',
         'nDisplay',
         'SwitchBoard',
         'DMX',
         'UnrealMultiEdit',
         'StableDiffusion',
-        'Github',
       ],
     },
     {
@@ -35,7 +35,7 @@ const experience: IExperience.Payload = {
         '외부 플러그인 연구 및 기능 확장',
         '시네마틱 영상 제작을 위한 컨텐츠 프로그래밍',
       ],
-      skillKeywords: ['C++', 'Unreal Engine', 'Camera360v2', 'SVN'],
+        skillKeywords: ['C++', 'Unreal Engine', 'SVN', 'Camera360v2',],
     },
   ],
 };

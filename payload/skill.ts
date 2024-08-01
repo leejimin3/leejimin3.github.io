@@ -7,16 +7,16 @@ const programmingLanguages: ISkill.Skill = {
       title: 'C++',
     },
     {
-      title: 'C#',
-    },
-    {
-      title: 'Python',
-    },
-    {
       title: 'C',
     },
     {
+      title: 'C#',
+    },
+    {
       title: 'Java',
+    },
+    {
+      title: 'Python',
     },
     {
       title: 'Lua',
@@ -43,16 +43,16 @@ const ToolsandIDEs: ISkill.Skill = {
       title: 'Git / Github',
     },
     {
-      title: 'Visual Studio / VS Code',
-    },
-    {
-      title: 'Notion',
-    },
-    {
       title: 'Jira',
     },
     {
+      title: 'Visual Studio / VS Code',
+    },
+    {
       title: 'Confluence',
+    },
+    {
+      title: 'Notion',
     },
     {
       title: 'SVN',
@@ -64,7 +64,7 @@ const Misc: ISkill.Skill = {
   category: 'Misc',
   items: [
     {
-      title: 'Oculus',
+      title: 'Communication',
     },
     {
       title: 'Agile / Scrum',
@@ -73,7 +73,7 @@ const Misc: ISkill.Skill = {
       title: 'Game Experience',
     },
     {
-      title: 'Communication',
+      title: 'Oculus',
     },
     {
       title: 'Code review',
@@ -87,7 +87,7 @@ const Misc: ISkill.Skill = {
 const skill: ISkill.Payload = {
   disable: false,
   skills: [programmingLanguages, GameEngine, ToolsandIDEs, Misc],
-  tooltip: '자신 있는 스킬부터 나열하였습니다.',
+  tooltip: '숙련도 높은 스킬부터 나열',
 };
 
 export default skill;

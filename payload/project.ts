@@ -13,10 +13,10 @@ const project: IProject.Payload = {
           content: 'Unreal Engine5 및 C++를 사용한 게임 개발. 패키징 완료 후 시연 진행',
         },
         {
-          content: 'GAS시스템을 사용하여 전반적인 게임 로직 구성',
+          content: 'GAS Framework을 사용하여 전반적인 게임 로직 구성',
         },
         {
-          content: '언리얼 네트워크 및 EOS를 사용한 리슨 서버 환경 구성',
+          content: '언리얼 네트워크 및 EOS를 사용한 Listen Server 환경 구성',
         },
         {
           content: '멀티플레이 인벤토리 컴포넌트 및 UI 구성',
@@ -34,13 +34,13 @@ const project: IProject.Payload = {
       descriptions: [
         {
           content:
-            '개발 철수 위기였던 프로젝트에 긴급 투입. 연구 감사 통과 및 프로젝트 완료하여 약 n억원의 연구비 획득',
+            '개발 철수 위기였던 프로젝트에 투입. 연구 감사 통과 및 프로젝트 완료하여 약 n억원의 수익 창출',
         },
         {
           content: '언리얼 내부 플러그인 및 서드 파티 플러그인의 코드를 분석 및 확장 담당',
           weight: 'MEDIUM',
           descriptions: [
-            { content: '"MultiEdit" 플러그인 - 분석 및 확장을 통해 일부의 자동화 구현' },
+            { content: '"MultiEdit" 플러그인 - 분석 및 확장을 통해 기능 일부의 자동화 구현' },
             { content: '"DMX" 플러그인 - DMX 컨버터를 이용하여 레벨 내의 조명과 실제 조명 동기화' },
             {
               content:
@@ -60,7 +60,7 @@ const project: IProject.Payload = {
       where: '백스포트(Vaxport)',
       descriptions: [
         {
-          content: '속초의 실감컨텐츠 전시관 "뮤지엄엑스"에 프러젝트 전시 및 유지보수',
+          content: '속초의 실감컨텐츠 전시관 "뮤지엄엑스"의 프로젝트 전시 및 유지보수',
         },
         {
           content:
@@ -69,17 +69,17 @@ const project: IProject.Payload = {
           descriptions: [
             {
               content:
-                '서버와의 소켓통신 환경 구성. 프로토콜을 통해 모바일에서 오브젝트 조작 및 기능 작동',
+                '서버와 IO소켓통신 환경 구축. protocol을 통해 모바일에서 오브젝트 조작 및 기능 작동',
             },
             {
               content:
-                'RestAPI를 사용한 HTTP통신을 통해 사용자가 그린 이미지 데이터를 수신. 오브젝트의 DynamicMaterialIntance에 적용',
+                'RestAPI를 사용한 HTTP통신을 통해 사용자의 이미지 데이터를 수신. 오브젝트의 DynamicMaterialIntance에 Texture 적용',
             },
           ],
         },
         {
           content:
-            '언리얼 플러그인을 분석 및 프로젝트에 적용하여 대형 타원형 스크린에 화면을 정상적으로 출력',
+            '언리얼 플러그인을 분석 및 프로젝트에 적용하여 대형 타원 스크린에 화면을 정상적으로 출력',
           weight: 'MEDIUM',
           descriptions: [
             {
@@ -98,7 +98,7 @@ const project: IProject.Payload = {
       title: '게임잼 참여 및 불릿 헤븐 게임 제작 [Unity]',
       startedAt: '2023-12',
       endedAt: '2023-12',
-      where: '"뒤끝"게임잼(BackEnd)',
+      where: '"뒤끝" 게임잼(BackEnd)',
       descriptions: [
         {
           content: '게임의 데이터를 관리하는 매니저 환경 구성 담당',

@@ -21,7 +21,7 @@ const profile: IProfile.Payload = {
       icon: faEnvelope,
     },
     {
-      title: '010-xxxx-xxxx',
+      title: '010-3423-1559',
       icon: faPhone,
       badge: true,
     },
@@ -30,12 +30,12 @@ const profile: IProfile.Payload = {
       icon: faGithub,
     },
     {
-      link: 'https://quill-quicksand-8ed.notion.site/29f99e8819c840938b6e1ef7cd83f5b3',
+      link: 'https://jimin-do-main-page.notion.site/29f99e8819c840938b6e1ef7cd83f5b3?pvs=74',
       icon: faReadme,
     },
   ],
   notice: {
-    title: '이메일로 contact시 빠른 답장 가능합니다.',
+      title: '이메일로 Contact 부탁드립니다.',
     icon: faBell,
   },
 };

@@ -4,6 +4,8 @@ const { homepage } = require('./package.json');
 
 const { NODE_ENV } = process.env;
 
+assetPrefix: '.'
+
 module.exports = withImages({
   assetPrefix: (() => {
     if (NODE_ENV === 'production' && homepage) {
@@ -29,4 +31,3 @@ module.exports = withImages({
 //   return config;
 // }
 // }),
-assetPrefix: '.'
