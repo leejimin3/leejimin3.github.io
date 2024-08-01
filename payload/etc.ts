@@ -17,7 +17,7 @@ const etc: IEtc.Payload = {
     {
       title: 'IC-Lab 연구실장',
       subTitle: "Steve & Oliver Baker's",
-      startedAt: '2021-11',
+      startedAt: '2022-11',
       endedAt: '2022-11',
     },
     {

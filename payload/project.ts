@@ -97,6 +97,7 @@ const project: IProject.Payload = {
     {
       title: '게임잼 참여 및 불릿 헤븐 게임 제작 [Unity]',
       startedAt: '2023-12',
+      endedAt: '2023-12',
       where: '"뒤끝" 게임잼(BackEnd)',
       descriptions: [
         {
