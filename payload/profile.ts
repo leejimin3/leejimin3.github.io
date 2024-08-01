@@ -17,7 +17,7 @@ const profile: IProfile.Payload = {
   contact: [
     {
       title: 'leejimin159@gmail.com',
-      link: 'leejimin159@gmail.com',
+      link: 'mailto:leejimin159@gmail.com',
       icon: faEnvelope,
     },
     {
@@ -35,7 +35,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title: '이메일로 Contact 부탁드립니다.',
+    title: '이메일로 연락주시면 감사하겠습니다.',
     icon: faBell,
   },
 };
