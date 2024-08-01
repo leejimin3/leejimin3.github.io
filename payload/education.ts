@@ -5,14 +5,14 @@ const education: IEducation.Payload = {
 
     list: [
         {
-            title: '¾È¾ç´ëÇĞ±³',
-            subTitle: 'ÄÄÇ»ÅÍ°øÇĞ°ú Á¹¾÷',
+            title: 'ì•ˆì–‘ëŒ€í•™êµ',
+            subTitle: 'ì»´í“¨í„°ê³µí•™ê³¼ ì¡¸ì—…',
             startedAt: '2017-03',
             endedAt: '2023-06',
         },
         {
-            title: 'ºÎÆò°íµîÇĞ±³',
-            subTitle: 'ÀÚ¿¬°è Á¹¾÷',
+            title: 'ë¶€í‰ê³ ë“±í•™êµ',
+            subTitle: 'ìì—°ê³„ ì¡¸ì—…',
             startedAt: '2014-03',
             endedAt: '2016-12',
         },
