@@ -1,6 +1,6 @@
 import { IOpenSource } from '../component/openSource/IOpenSource';
 
-const openSources: IOpenSource.Payload = {
+const openSource: IOpenSource.Payload = {
   disable: true,
   list: [
     {
@@ -71,4 +71,4 @@ const openSources: IOpenSource.Payload = {
   ],
 };
 
-export default openSources;
+export default openSource;
