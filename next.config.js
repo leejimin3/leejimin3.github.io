@@ -29,3 +29,5 @@ module.exports = withImages({
 //   return config;
 // }
 // }),
+
+assetPrefix: '.'
