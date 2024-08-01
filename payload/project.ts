@@ -6,7 +6,7 @@ const project: IProject.Payload = {
     {
       title: '쿼터뷰 PVP 액션 게임 개발 [Unreal Engine5]',
       startedAt: '2024-03',
-      endedAt: '2014-06',
+      endedAt: '2024-06',
       where: 'UNSEEN[Smilegate x EpicGamesKorea]',
       descriptions: [
         {
@@ -54,13 +54,13 @@ const project: IProject.Payload = {
       ],
     },
     {
-      title: '체험형 전시 체험 공간 실감 컨텐츠 제작 [Unreal Engine5]',
+      title: '체험형 전시 공간 실감 콘텐츠 제작 [Unreal Engine5]',
       startedAt: '2023-05',
       endedAt: '2023-12',
       where: '백스포트(Vaxport)',
       descriptions: [
         {
-          content: '속초의 실감컨텐츠 전시관 "뮤지엄엑스"의 프로젝트 전시 및 유지보수',
+          content: '속초의 실감 콘텐츠 전시관 "뮤지엄엑스"의 프로젝트 전시 및 유지보수',
         },
         {
           content:
@@ -73,7 +73,7 @@ const project: IProject.Payload = {
             },
             {
               content:
-                'RestAPI를 사용한 HTTP통신을 통해 사용자의 이미지 데이터를 수신. 오브젝트의 DynamicMaterialIntance에 Texture 적용',
+                'RestAPI를 사용한 HTTP 통신을 통해 사용자의 이미지 데이터를 수신. 오브젝트의 DynamicMaterialIntance에 Texture 적용',
             },
           ],
         },
@@ -84,7 +84,7 @@ const project: IProject.Payload = {
           descriptions: [
             {
               content:
-                '"SwitchBoard" 플러그인 - 여러대의 PC를 노드로 연결. 다량의 PC의 화면이 병합된 환경 구성',
+                '"SwitchBoard" 플러그인 - 여러 대의 PC를 노드로 연결. 다량의 PC의 화면이 병합된 환경 구성',
             },
             {
               content:
@@ -97,7 +97,6 @@ const project: IProject.Payload = {
     {
       title: '게임잼 참여 및 불릿 헤븐 게임 제작 [Unity]',
       startedAt: '2023-12',
-      endedAt: '2023-12',
       where: '"뒤끝" 게임잼(BackEnd)',
       descriptions: [
         {
