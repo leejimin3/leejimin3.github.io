@@ -35,6 +35,12 @@ const etc: IEtc.Payload = {
       subTitle: '학교 건물 탐방 퍼즐 게임 개발',
       startedAt: '2021-12',
     },
+    {
+        title: '육군 병장 만기 전역',
+        subTitle: '운전병',
+        startedAt: '2018-04',
+        endedAt: '2019-11',
+    },
   ],
 };
 

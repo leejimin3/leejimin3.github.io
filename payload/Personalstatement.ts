@@ -1,7 +1,7 @@
 import { IPersonalstatement } from '../component/Personalstatement/IPersonalstatement';
 
 const Personalstatement: IPersonalstatement.Payload = {
-  disable: false,
+  disable: true,
 
   contents: ['프로그래머의 길을 선택한 이유'],
 };
