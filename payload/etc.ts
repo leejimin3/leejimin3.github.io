@@ -36,10 +36,10 @@ const etc: IEtc.Payload = {
       startedAt: '2021-12',
     },
     {
-        title: '육군 병장 만기 전역',
-        subTitle: '운전병',
-        startedAt: '2018-04',
-        endedAt: '2019-11',
+      title: '육군 병장 만기 전역',
+      subTitle: '운전병',
+      startedAt: '2018-04',
+      endedAt: '2019-11',
     },
   ],
 };
