@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.circleci",
+    "\\asset",
+    "\\component",
+    "\\docs",
     "\\pages",
     "\\payload"
   ],
-  "SelectedNode": "\\payload\\profile.ts",
+  "SelectedNode": "\\payload\\openSource.ts",
   "PreviewInSolutionExplorer": false
 }

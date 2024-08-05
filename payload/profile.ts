@@ -21,7 +21,7 @@ const profile: IProfile.Payload = {
       icon: faEnvelope,
     },
     {
-      title: '010-3423-1559',
+      title: 'Please contact me by E-mail',
       icon: faPhone,
       badge: true,
     },
