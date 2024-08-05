@@ -16,6 +16,7 @@ import { Skill } from '../component/skill';
 import { Style } from '../component/common/Style';
 import Payload from '../payload';
 import { Article } from '../component/article';
+import { Personalstatement } from '../component/Personalstatement';
 
 function Yosume() {
   return (
@@ -36,6 +37,7 @@ function Yosume() {
         <Article.Component payload={Payload.article} />
         <Education.Component payload={Payload.education} />
         <Etc.Component payload={Payload.etc} />
+        <Personalstatement.Component payload={Payload.Personalstatement} />
         <Footer.Component payload={Payload.footer} />
       </Container>
     </>

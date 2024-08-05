@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\leejimin3.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\openSource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\openSource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\_global.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\_global.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\openSource\\IOpenSource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\openSource\\IOpenSource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\openSource\\row.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\openSource\\row.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\openSource\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\openSource\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\Personalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\Personalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\openSource\\IOpenSource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\openSource\\IOpenSource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\Personalstatement\\IPersonalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\Personalstatement\\IPersonalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\Personalstatement\\row.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\Personalstatement\\row.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\Personalstatement\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\_global.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\_global.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\introduce.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\experience.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\experience.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\presentation.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -102,59 +102,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "education.ts",
-              "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\education.ts",
-              "RelativeDocumentMoniker": "payload\\education.ts",
-              "ToolTip": "C:\\leejimin3.github.io\\payload\\education.ts",
-              "RelativeToolTip": "payload\\education.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:40:39.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "row.tsx",
-              "DocumentMoniker": "C:\\leejimin3.github.io\\component\\openSource\\row.tsx",
-              "RelativeDocumentMoniker": "component\\openSource\\row.tsx",
-              "ToolTip": "C:\\leejimin3.github.io\\component\\openSource\\row.tsx",
-              "RelativeToolTip": "component\\openSource\\row.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:38:03.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "index.tsx",
-              "DocumentMoniker": "C:\\leejimin3.github.io\\component\\openSource\\index.tsx",
-              "RelativeDocumentMoniker": "component\\openSource\\index.tsx",
-              "ToolTip": "C:\\leejimin3.github.io\\component\\openSource\\index.tsx",
-              "RelativeToolTip": "component\\openSource\\index.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\pages\\index.tsx",
+              "RelativeDocumentMoniker": "pages\\index.tsx",
+              "ToolTip": "C:\\leejimin3.github.io\\pages\\index.tsx",
+              "RelativeToolTip": "pages\\index.tsx",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:37:36.206Z",
+              "WhenOpened": "2024-08-01T16:36:21.656Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Personalstatement.ts",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\Personalstatement.ts",
+              "RelativeDocumentMoniker": "payload\\Personalstatement.ts",
+              "ToolTip": "C:\\leejimin3.github.io\\payload\\Personalstatement.ts",
+              "RelativeToolTip": "payload\\Personalstatement.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-05T17:03:15.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IOpenSource.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\component\\openSource\\IOpenSource.ts",
               "RelativeDocumentMoniker": "component\\openSource\\IOpenSource.ts",
               "ToolTip": "C:\\leejimin3.github.io\\component\\openSource\\IOpenSource.ts",
               "RelativeToolTip": "component\\openSource\\IOpenSource.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:37:03.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T17:01:13.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonalstatement.ts",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\component\\Personalstatement\\IPersonalstatement.ts",
+              "RelativeDocumentMoniker": "component\\Personalstatement\\IPersonalstatement.ts",
+              "ToolTip": "C:\\leejimin3.github.io\\component\\Personalstatement\\IPersonalstatement.ts",
+              "RelativeToolTip": "component\\Personalstatement\\IPersonalstatement.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-05T17:00:49.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\index.ts",
+              "RelativeDocumentMoniker": "payload\\index.ts",
+              "ToolTip": "C:\\leejimin3.github.io\\payload\\index.ts",
+              "RelativeToolTip": "payload\\index.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-05T16:17:24.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "row.tsx",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\component\\Personalstatement\\row.tsx",
+              "RelativeDocumentMoniker": "component\\Personalstatement\\row.tsx",
+              "ToolTip": "C:\\leejimin3.github.io\\component\\Personalstatement\\row.tsx",
+              "RelativeToolTip": "component\\Personalstatement\\row.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-05T16:56:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx",
+              "RelativeDocumentMoniker": "component\\Personalstatement\\index.tsx",
+              "ToolTip": "C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx",
+              "RelativeToolTip": "component\\Personalstatement\\index.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-05T16:54:49.592Z"
             },
             {
               "$type": "Document",
@@ -164,18 +203,13 @@
               "RelativeDocumentMoniker": "package.json",
               "ToolTip": "C:\\leejimin3.github.io\\package.json",
               "RelativeToolTip": "package.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-05T16:35:42.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-08-05T16:35:42.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IExperience.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\component\\experience\\IExperience.ts",
               "RelativeDocumentMoniker": "component\\experience\\IExperience.ts",
@@ -183,12 +217,11 @@
               "RelativeToolTip": "component\\experience\\IExperience.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:33:46.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:33:46.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "article.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\article.ts",
               "RelativeDocumentMoniker": "payload\\article.ts",
@@ -196,21 +229,7 @@
               "RelativeToolTip": "payload\\article.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:32:42.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "index.ts",
-              "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\index.ts",
-              "RelativeDocumentMoniker": "payload\\index.ts",
-              "ToolTip": "C:\\leejimin3.github.io\\payload\\index.ts",
-              "RelativeToolTip": "payload\\index.ts",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:24.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:32:42.47Z"
             },
             {
               "$type": "Document",
@@ -222,25 +241,11 @@
               "RelativeToolTip": "payload\\presentation.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:18.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:17:18.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "openSource.ts",
-              "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\openSource.ts",
-              "RelativeDocumentMoniker": "payload\\openSource.ts",
-              "ToolTip": "C:\\leejimin3.github.io\\payload\\openSource.ts",
-              "RelativeToolTip": "payload\\openSource.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:17.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "introduce.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\introduce.ts",
               "RelativeDocumentMoniker": "payload\\introduce.ts",
@@ -248,8 +253,7 @@
               "RelativeToolTip": "payload\\introduce.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:16.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:17:16.648Z"
             },
             {
               "$type": "Document",
@@ -261,12 +265,11 @@
               "RelativeToolTip": "EXAMPLE.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-05T16:17:14.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:17:14.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "experience.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\experience.ts",
               "RelativeDocumentMoniker": "payload\\experience.ts",
@@ -274,12 +277,11 @@
               "RelativeToolTip": "payload\\experience.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:10.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:17:10.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_document.tsx",
               "DocumentMoniker": "C:\\leejimin3.github.io\\pages\\_document.tsx",
               "RelativeDocumentMoniker": "pages\\_document.tsx",
@@ -287,12 +289,11 @@
               "RelativeToolTip": "pages\\_document.tsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:05.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:17:05.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_app.tsx",
               "DocumentMoniker": "C:\\leejimin3.github.io\\pages\\_app.tsx",
               "RelativeDocumentMoniker": "pages\\_app.tsx",
@@ -300,8 +301,7 @@
               "RelativeToolTip": "pages\\_app.tsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:17:04.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:17:04.721Z"
             },
             {
               "$type": "Document",
@@ -313,12 +313,11 @@
               "RelativeToolTip": "payload\\etc.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T16:01:46.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:01:46.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "profile.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\profile.ts",
               "RelativeDocumentMoniker": "payload\\profile.ts",
@@ -326,21 +325,19 @@
               "RelativeToolTip": "payload\\profile.ts",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-01T16:41:09.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T16:41:09.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_global.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\_global.ts",
               "RelativeDocumentMoniker": "payload\\_global.ts",
               "ToolTip": "C:\\leejimin3.github.io\\payload\\_global.ts",
               "RelativeToolTip": "payload\\_global.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-01T16:37:04.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T16:37:04.758Z"
             },
             {
               "$type": "Document",
@@ -353,19 +350,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-01T16:36:34.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.tsx",
-              "DocumentMoniker": "C:\\leejimin3.github.io\\pages\\index.tsx",
-              "RelativeDocumentMoniker": "pages\\index.tsx",
-              "ToolTip": "C:\\leejimin3.github.io\\pages\\index.tsx",
-              "RelativeToolTip": "pages\\index.tsx",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-01T16:36:21.656Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
