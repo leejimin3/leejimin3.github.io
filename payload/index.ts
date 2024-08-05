@@ -25,6 +25,7 @@ import { IEtc } from '../component/etc/IEtc';
 import { IFooter } from '../component/footer/IFooter';
 import { IGlobal } from '../component/common/IGlobal';
 import { IArticle } from '../component/article/IArticle';
+import { IPersonalstatement } from '../component/Personalstatement/IPersonalstatement';
 
 const Payload: Payload = {
   profile,
@@ -54,7 +55,7 @@ interface Payload {
   education: IEducation.Payload;
   article: IArticle.Payload;
   etc: IEtc.Payload;
-  Personalstatement: IPresentation.Payload;
+  Personalstatement: IPersonalstatement.Payload;
   footer: IFooter.Payload;
 
   _global: IGlobal.Payload;

@@ -18,7 +18,7 @@ export const Personalstatement = {
 function Component({ payload }: PropsWithChildren<{ payload: Payload }>) {
   return (
     <CommonSection title="Personal Statement">
-    <PersonalstatementRow payload={payload} />
+      <PersonalstatementRow payload={payload} />
     </CommonSection>
   );
 }

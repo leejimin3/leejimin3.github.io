@@ -3,11 +3,11 @@ import { IEtc } from '../component/etc/IEtc';
 const etc: IEtc.Payload = {
   disable: false,
 
-    list: [
+  list: [
     {
-        title: '대전 인디(InD)게임잼 플레이 부문 수상',
-        subTitle: '스윙류 게임 개발',
-        startedAt: '2024-08',
+      title: '대전 인디(InD)게임잼 플레이 부문 수상',
+      subTitle: '스윙류 게임 개발',
+      startedAt: '2024-08',
     },
     {
       title: '캡스톤 경진대회 우수상',
@@ -21,7 +21,7 @@ const etc: IEtc.Payload = {
     },
     {
       title: 'IC-Lab 연구실장',
-      subTitle: "연구 및 멘토링 진행",
+      subTitle: '연구 및 멘토링 진행',
       startedAt: '2021-11',
       endedAt: '2022-11',
     },
