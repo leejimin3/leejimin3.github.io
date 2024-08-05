@@ -3,9 +3,7 @@ import { IPersonalstatement } from '../component/Personalstatement/IPersonalstat
 const Personalstatement: IPersonalstatement.Payload = {
   disable: false,
 
-  contents: [
-        '�ȳ��ϼ���!',
-    ],
+  contents: ['프로그래머의 길을 선택한 이유'],
 };
 
 export default Personalstatement;
