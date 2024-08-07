@@ -33,8 +33,7 @@ const project: IProject.Payload = {
       where: '백스포트(Vaxport)',
       descriptions: [
         {
-          content:
-            '개발 철수 직전 프로젝트에 투입. 성공적으로 연구 감사 통과 및 프로젝트 종료.',
+          content: '개발 철수 직전 프로젝트에 투입. 성공적으로 연구 감사 통과 및 프로젝트 종료.',
         },
         {
           content: '언리얼 내부 플러그인 및 서드 파티 플러그인의 코드를 분석 및 확장 담당',
