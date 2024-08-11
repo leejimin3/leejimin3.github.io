@@ -6,7 +6,7 @@ import { NextSeo } from 'next-seo';
 import { Education } from '../component/education';
 import { Etc } from '../component/etc';
 import { Experience } from '../component/experience';
-// import { Footer } from '../component/footer';
+import { Footer } from '../component/footer';
 import { Introduce } from '../component/introduce';
 import { OpenSource } from '../component/openSource';
 import { Presentation } from '../component/presentation';
@@ -37,7 +37,8 @@ function Yosume() {
         <Article.Component payload={Payload.article} />
         <Education.Component payload={Payload.education} />
         <Etc.Component payload={Payload.etc} />
-        <Personalstatement.Component payload={Payload.Personalstatement} />
+              <Personalstatement.Component payload={Payload.Personalstatement} />
+              <Footer.Component payload={Payload.footer} />
       </Container>
     </>
   );
@@ -45,4 +46,4 @@ function Yosume() {
 
 export default Yosume;
 
-// <Footer.Component payload={Payload.footer} />
+
