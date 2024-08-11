@@ -37,13 +37,11 @@ function Yosume() {
         <Article.Component payload={Payload.article} />
         <Education.Component payload={Payload.education} />
         <Etc.Component payload={Payload.etc} />
-              <Personalstatement.Component payload={Payload.Personalstatement} />
-              <Footer.Component payload={Payload.footer} />
+        <Personalstatement.Component payload={Payload.Personalstatement} />
+        <Footer.Component payload={Payload.footer} />
       </Container>
     </>
   );
 }
 
 export default Yosume;
-
-

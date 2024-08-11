@@ -15,16 +15,14 @@ export declare namespace IPersonalstatement {
      * @description `string` 배열이다. 요소 하나가 하나의 `<p>` 태그가 된다.
      */
     contents: ContentItem[];
-    }
+  }
 
-    export interface ContentItem {
-        text: string;
-        bold?: boolean; // 굵은 글씨 여부
-        fontsize?: string; // 폰트 크기
-    }
+  export interface ContentItem {
+    text: string;
+    bold?: boolean; // 굵은 글씨 여부
+    fontsize?: string; // 폰트 크기
+  }
 }
-
-
 
 // import { IRow } from '../common/IRow';
 // import { ICommon } from '../common/ICommon';

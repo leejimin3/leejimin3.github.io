@@ -81,8 +81,7 @@ function Description({ description }: PropsWithChildren<{ description: IRow.Desc
     if (postHref && postImage) {
       return (
         <li style={getFontWeight(weight)}>
-              {content} <HrefTargetBlank url={postHref} text={postHref} />{' '}
-              
+          {content} <HrefTargetBlank url={postHref} text={postHref} />{' '}
           <img src={postImage} alt={postImage} />
         </li>
       );
@@ -90,7 +89,7 @@ function Description({ description }: PropsWithChildren<{ description: IRow.Desc
     if (postHref) {
       return (
         <li style={getFontWeight(weight)}>
-          {content} <HrefTargetBlank url={postHref} text={'링크'} />
+          {content} <HrefTargetBlank url={postHref} text="링크" />
         </li>
       );
     }

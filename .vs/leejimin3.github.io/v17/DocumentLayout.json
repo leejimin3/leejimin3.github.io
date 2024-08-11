@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\leejimin3.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\footer\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\footer\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\presentation.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\presentation.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\experience.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\experience.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\project.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\project.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\Personalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\Personalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\Personalstatement\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\Personalstatement\\IPersonalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\Personalstatement\\IPersonalstatement.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\introduce\\IIntroduce.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\introduce\\IIntroduce.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\education.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\Personalstatement\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\project.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\project.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\experience.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\experience.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\payload\\presentation.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payload\\presentation.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\.eslintrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eslintrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\introduce\\IIntroduce.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:component\\introduce\\IIntroduce.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\leejimin3.github.io\\component\\introduce\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -54,20 +62,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.tsx",
               "DocumentMoniker": "C:\\leejimin3.github.io\\pages\\index.tsx",
               "RelativeDocumentMoniker": "pages\\index.tsx",
               "ToolTip": "C:\\leejimin3.github.io\\pages\\index.tsx",
               "RelativeToolTip": "pages\\index.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-01T16:36:21.656Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\component\\footer\\index.tsx",
+              "RelativeDocumentMoniker": "component\\footer\\index.tsx",
+              "ToolTip": "C:\\leejimin3.github.io\\component\\footer\\index.tsx",
+              "RelativeToolTip": "component\\footer\\index.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-11T09:12:24.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".eslintrc.js",
+              "DocumentMoniker": "C:\\leejimin3.github.io\\.eslintrc.js",
+              "RelativeDocumentMoniker": ".eslintrc.js",
+              "ToolTip": "C:\\leejimin3.github.io\\.eslintrc.js",
+              "RelativeToolTip": ".eslintrc.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-11T09:09:28.277Z",
               "EditorCaption": ""
             },
             {
@@ -76,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "presentation.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\presentation.ts",
               "RelativeDocumentMoniker": "payload\\presentation.ts",
@@ -89,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "experience.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\experience.ts",
               "RelativeDocumentMoniker": "payload\\experience.ts",
@@ -97,23 +131,25 @@
               "RelativeToolTip": "payload\\experience.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-07T17:13:00.035Z"
+              "WhenOpened": "2024-08-07T17:13:00.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "project.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\project.ts",
               "RelativeDocumentMoniker": "payload\\project.ts",
               "ToolTip": "C:\\leejimin3.github.io\\payload\\project.ts",
               "RelativeToolTip": "payload\\project.ts",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAAOAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-07T17:12:41.161Z"
+              "WhenOpened": "2024-08-07T17:12:41.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "education.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\education.ts",
               "RelativeDocumentMoniker": "payload\\education.ts",
@@ -121,43 +157,47 @@
               "RelativeToolTip": "payload\\education.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-07T17:11:25.763Z"
+              "WhenOpened": "2024-08-07T17:11:25.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IPersonalstatement.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\component\\Personalstatement\\IPersonalstatement.ts",
               "RelativeDocumentMoniker": "component\\Personalstatement\\IPersonalstatement.ts",
               "ToolTip": "C:\\leejimin3.github.io\\component\\Personalstatement\\IPersonalstatement.ts",
               "RelativeToolTip": "component\\Personalstatement\\IPersonalstatement.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T17:18:29.343Z"
+              "WhenOpened": "2024-08-05T17:18:29.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "index.tsx",
               "DocumentMoniker": "C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx",
               "RelativeDocumentMoniker": "component\\Personalstatement\\index.tsx",
               "ToolTip": "C:\\leejimin3.github.io\\component\\Personalstatement\\index.tsx",
               "RelativeToolTip": "component\\Personalstatement\\index.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T17:18:17.765Z"
+              "WhenOpened": "2024-08-05T17:18:17.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Personalstatement.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\Personalstatement.ts",
               "RelativeDocumentMoniker": "payload\\Personalstatement.ts",
               "ToolTip": "C:\\leejimin3.github.io\\payload\\Personalstatement.ts",
               "RelativeToolTip": "payload\\Personalstatement.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-05T17:18:02.243Z"
+              "WhenOpened": "2024-08-05T17:18:02.243Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -167,7 +207,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IIntroduce.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\component\\introduce\\IIntroduce.ts",
               "RelativeDocumentMoniker": "component\\introduce\\IIntroduce.ts",
@@ -180,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "index.tsx",
               "DocumentMoniker": "C:\\leejimin3.github.io\\component\\introduce\\index.tsx",
               "RelativeDocumentMoniker": "component\\introduce\\index.tsx",
@@ -192,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "introduce.ts",
               "DocumentMoniker": "C:\\leejimin3.github.io\\payload\\introduce.ts",
               "RelativeDocumentMoniker": "payload\\introduce.ts",

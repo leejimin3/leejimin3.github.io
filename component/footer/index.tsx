@@ -10,9 +10,9 @@ export const Footer = {
 };
 
 function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>) {
-    function scrollToTop() {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
   return (
     <Row>
       <Col style={Style.footerCover}>
@@ -21,9 +21,21 @@ function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>)
             <small>
               v.{`${payload.version} / `}
               {/* Github 주소는 origin repository 의 주소를 넣는다. */}
-                          <HrefTargetBlank url="https://github.com/leejimin3" text="Github" />
+              <HrefTargetBlank url="https://github.com/leejimin3" text="Github" />
               {' / '}
-                          <a href="#" onClick={scrollToTop}>맨 위로</a>
+              <button
+                type="button"
+                onClick={scrollToTop}
+                style={{
+                  background: 'none',
+                  border: 'none',
+                  padding: 0,
+                  color: 'dodgerblue',
+                  cursor: 'pointer',
+                }}
+              >
+                맨 위로
+              </button>
             </small>
           </EmptyRowCol>
         </div>
@@ -32,5 +44,9 @@ function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>)
   );
 }
 
-//https://github.com/uyu423/resume-nextjs
+// https://github.com/uyu423/resume-nextjs
 //              Thanks for <HrefTargetBlank url="https://blog.outsider.ne.kr/1234" text="Outsider" />
+
+// <a href="#" onClick={scrollToTop}>
+//    맨 위로
+// </a>

@@ -4,12 +4,13 @@
     "\\.circleci",
     "\\asset",
     "\\component",
+    "\\component\\footer",
     "\\component\\introduce",
     "\\component\\Personalstatement",
     "\\docs",
     "\\pages",
     "\\payload"
   ],
-  "SelectedNode": "\\payload\\presentation.ts",
+  "SelectedNode": "\\component\\footer\\index.tsx",
   "PreviewInSolutionExplorer": false
 }

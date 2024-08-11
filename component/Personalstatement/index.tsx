@@ -24,11 +24,9 @@ function Component({ payload }: PropsWithChildren<{ payload: Payload }>) {
         </Col>
         <Col sm={12} md={9}>
           {payload.contents.map((content, index) => (
-              <p
-                  key={index.toString()}
-                  style={{fontSize: content.fontsize} }
-              >
-                  {content.bold ? <strong>{content.text}</strong> : content.text}</p>
+            <p key={index.toString()} style={{ fontSize: content.fontsize }}>
+              {content.bold ? <strong>{content.text}</strong> : content.text}
+            </p>
           ))}
         </Col>
       </Row>
