@@ -87,7 +87,7 @@ const Misc: ISkill.Skill = {
 const skill: ISkill.Payload = {
   disable: false,
   skills: [programmingLanguages, GameEngine, ToolsandIDEs, Misc],
-  //tooltip: '숙련도 높은 스킬부터 나열',
+  // tooltip: '숙련도 높은 스킬부터 나열',
 };
 
 export default skill;
