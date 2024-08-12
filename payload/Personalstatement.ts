@@ -1,7 +1,7 @@
 import { IPersonalstatement } from '../component/Personalstatement/IPersonalstatement';
 
 const Personalstatement: IPersonalstatement.Payload = {
-  disable: false,
+  disable: true,
 
   contents: [
     {
