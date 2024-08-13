@@ -10,9 +10,9 @@ const experience: IExperience.Payload = {
       startedAt: '2023-04',
       endedAt: '2024-01',
       descriptions: [
-        '사내 IITP 연구 개발 관련 언리얼 프로젝트 담당. 연구 감사 통과 및 프로젝트 완료하여 약 n억원의 수익 창출',
+        '사내 IITP 연구 개발 관련 언리얼 프로젝트 담당.',
         '실감형 체험형 전시관 "속초 뮤지엄 엑스"의 초기 콘텐츠 제작 및 유지보수',
-        '기존 서비스 중인 사내 프로젝트 유지보수[Unity, AWS]',
+        '기존 서비스 중인 사내 프로젝트 유지보수[Unreal, Unity, AWS]',
         '엔진 플러그인 및 서드 파티 플러그인 코드 분석 및 기능 확장',
       ],
       skillKeywords: [
@@ -32,8 +32,8 @@ const experience: IExperience.Payload = {
       startedAt: '2022-06',
       endedAt: '2022-07',
       descriptions: [
-        '외부 플러그인 연구 및 기능 확장',
-        '시네마틱 영상 제작을 위한 콘텐츠 프로그래밍',
+        'Camera360v2를 사용하여 3면의 화면이 겹치는 부분의 왜곡 화면 최적화',
+        '플러그인 개발자와 연락을 통해 플러그인 사용 관련 문제 해결',
       ],
       skillKeywords: ['C++', 'Unreal Engine', 'SVN', 'Camera360v2'],
     },

@@ -22,20 +22,6 @@ function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>)
               v.{`${payload.version} / `}
               {/* Github 주소는 origin repository 의 주소를 넣는다. */}
               <HrefTargetBlank url="https://github.com/leejimin3" text="Github" />
-              {' / '}
-              <button
-                type="button"
-                onClick={scrollToTop}
-                style={{
-                  background: 'none',
-                  border: 'none',
-                  padding: 0,
-                  color: 'dodgerblue',
-                  cursor: 'pointer',
-                }}
-              >
-                맨 위로
-              </button>
             </small>
           </EmptyRowCol>
         </div>
@@ -50,3 +36,21 @@ function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>)
 // <a href="#" onClick={scrollToTop}>
 //    맨 위로
 // </a>
+
+
+
+//버튼 부분 25번줄
+//{ ' / ' }
+//<button
+//    type="button"
+//    onClick={scrollToTop}
+//    style={{
+//        background: 'none',
+//        border: 'none',
+//        padding: 0,
+//        color: 'dodgerblue',
+//        cursor: 'pointer',
+//    }}
+//>
+//    맨 위로
+//</button>

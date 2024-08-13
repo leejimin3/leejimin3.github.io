@@ -31,22 +31,29 @@ const project: IProject.Payload = {
       startedAt: '2023-04',
       endedAt: '2024-01',
       where: '백스포트(Vaxport)',
-      descriptions: [
+        descriptions: [
+            {
+                content: '언리얼 내부 플러그인 및 서드 파티 플러그인의 코드를 분석 및 확장 담당',
+                weight: 'MEDIUM',
+                descriptions: [
+                    { content: '"MultiEdit" 플러그인 - 분석 및 확장을 통해 기능 일부의 자동화 구현' },
+                    { content: '"DMX" 플러그인 - DMX 컨버터를 이용하여 레벨 내의 조명과 실제 조명 동기화' },
+                    {
+                        content:
+                            '"Stable Diffusion" 플러그인 - 서드 파티 플러그인 분석 및 확장. AI로 생성 및 의존된 인스턴스의 Material로 자동 적용',
+                    },
+                ],
+            },
         {
           content: '개발 철수 직전 프로젝트에 투입. 성공적으로 연구 감사 통과 및 프로젝트 종료.',
-        },
-        {
-          content: '언리얼 내부 플러그인 및 서드 파티 플러그인의 코드를 분석 및 확장 담당',
-          weight: 'MEDIUM',
-          descriptions: [
-            { content: '"MultiEdit" 플러그인 - 분석 및 확장을 통해 기능 일부의 자동화 구현' },
-            { content: '"DMX" 플러그인 - DMX 컨버터를 이용하여 레벨 내의 조명과 실제 조명 동기화' },
-            {
-              content:
-                '"Stable Diffusion" 플러그인 - 서드 파티 플러그인 분석 및 확장. AI로 생성 및 의존된 인스턴스의 Material로 자동 적용',
+          },
+          {
+              content: '연구 감사 통과로 약 2억원의 연구지원비 획득 기여.',
             },
-          ],
-        },
+            {
+                content: '엑스포에 해당 연구내용 전시. 중국 기업과 약 5억원 가량의 공동사업을 성사시키는데 기여',
+            },
+
         {
           content: '영어권 외국 시니어 개발자와 협업 진행',
         },
@@ -90,7 +97,14 @@ const project: IProject.Payload = {
                 '"nDisplay" 플러그인 - 오브젝트 움직임 동기화. 굴곡진 스크린에 화면 정상 출력',
             },
           ],
-        },
+          },
+
+          {
+              content: '"차세대 매체를 활용한 실감콘텐츠 테마파크"에 선정돼 20억원의 지원금 획득 기여',
+          },
+          {
+              content: '자동 시작 매크로 개발과 유지보수 진행',
+          },
       ],
     },
     {
