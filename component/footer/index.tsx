@@ -10,9 +10,9 @@ export const Footer = {
 };
 
 function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>) {
-  //function scrollToTop() {
+  // function scrollToTop() {
   //  window.scrollTo({ top: 0, behavior: 'smooth' });
-  //}
+  // }
   return (
     <Row>
       <Col style={Style.footerCover}>
