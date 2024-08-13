@@ -10,9 +10,9 @@ export const Footer = {
 };
 
 function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>) {
-  function scrollToTop() {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
+  //function scrollToTop() {
+  //  window.scrollTo({ top: 0, behavior: 'smooth' });
+  //}
   return (
     <Row>
       <Col style={Style.footerCover}>
@@ -37,11 +37,9 @@ function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>)
 //    맨 위로
 // </a>
 
-
-
-//버튼 부분 25번줄
-//{ ' / ' }
-//<button
+// 버튼 부분 25번줄
+// { ' / ' }
+// <button
 //    type="button"
 //    onClick={scrollToTop}
 //    style={{
@@ -51,6 +49,6 @@ function Component({ payload }: PropsWithChildren<{ payload: IFooter.Payload }>)
 //        color: 'dodgerblue',
 //        cursor: 'pointer',
 //    }}
-//>
+// >
 //    맨 위로
-//</button>
+// </button>
