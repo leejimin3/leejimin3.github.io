@@ -6,10 +6,11 @@
     "\\component",
     "\\component\\footer",
     "\\component\\introduce",
+    "\\component\\profile",
     "\\docs",
     "\\pages",
     "\\payload"
   ],
-  "SelectedNode": "\\component\\footer\\index.tsx",
+  "SelectedNode": "\\payload\\profile.ts",
   "PreviewInSolutionExplorer": false
 }
