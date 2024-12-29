@@ -6,7 +6,7 @@ import { IProfile } from '../component/profile/IProfile';
 import image from '../asset/ProfileImage.jpg';
 
 const profile: IProfile.Payload = {
-  disable: false,
+  disable: true,
 
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,

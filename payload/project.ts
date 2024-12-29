@@ -1,7 +1,7 @@
 import { IProject } from '../component/project/IProject';
 
 const project: IProject.Payload = {
-  disable: false,
+  disable: true,
   list: [
     {
       title: '쿼터뷰 PVP 액션 게임 개발 [Unreal Engine5]',

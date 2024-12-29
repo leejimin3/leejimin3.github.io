@@ -2,7 +2,7 @@ import { IIntroduce } from '../component/introduce/IIntroduce';
 import { lastestUpdatedAt } from '../package.json';
 
 const introduce: IIntroduce.Payload = {
-  disable: false,
+  disable: true,
 
   contents: [
     '게임 개발자로서의 다양한 활동과 경험을 가지고 있습니다. Unreal Engine(C++) 및 유니티(C# script)를 주 엔진으로 사용하며 객체지향적이고 유지보수성이 높은 코드를 작성하려고 노력하고 있습니다.',
